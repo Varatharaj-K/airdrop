@@ -1,0 +1,5 @@
+Sol Pub Key: 7pyfdfkBjEvwS15SwZkejcvZALF3un3XrNMrr6KV9niE
+Token Address: 7Kxd9jSNeDwWW3HDZyRMomJv7TZ1tcbTRMpvhckZckr6
+Token Account: 6MyTwZkkAXfTuVC381cbJqjkVbqFdrigSRZmGgrePNtv
+Phantom Wallet: FbKq7Gyn54bpEg5A2vWtW6dMDXSGp4kYqK2iqL97EhMW
+
